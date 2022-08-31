@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
+<Play>https://cloud.hensel-electric.de/index.php/s/K6Dgf3HJ3kgdWmT/download/Stromausfall-RZA.mp3</Play>
+</Response>
